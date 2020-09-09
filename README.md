@@ -1,2 +1,3 @@
 # Wine_Data
-Data_Analysis_Project
+This is project in which I am predicting the quality of wine based on given features. 
+It is jupyter notebook.  
